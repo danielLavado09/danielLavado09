@@ -1,6 +1,6 @@
 <h1>Hello,
 I'm Daniel Lavado👋
-  <h2>📝Jr. Software developer</h2>
+  <h2>📝Software developer</h2>
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielLavado09&show_icons=true&theme=radical)
