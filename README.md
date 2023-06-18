@@ -14,7 +14,7 @@ I'm Daniel Lavado👋
 <img align="left" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-MongoDb-green?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <br><br/>
-<img align="left" src="https://img.shields.io/badge/-Java-white?logo=java&logoColor=ff0000&logoWidith=200&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
   
 </div>
